@@ -1,0 +1,11 @@
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+c:\users\lamiye adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Lamiye Adigozelli\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Ordered.resources
